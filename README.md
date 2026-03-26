@@ -8,7 +8,7 @@ Upload your PDF resume, paste a job description, and get an instant AI-powered a
 
 ## 🚀 Live Demo
 
-Deploy your own instance on Vercel with one click (see [Deployment](#deployment)).
+Deploy your own instance on Vercel with one click https://ai-resume-analyzer-sooty-omega.vercel.app/.
 
 ---
 
